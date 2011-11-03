@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_INIT([bsdwhois], [1.50])
-AM_CONFIG_HEADER([config.h])
+AM_CONFIG_HEADER([src/config.h])
 AM_INIT_AUTOMAKE
 
 # Checks for programs.
